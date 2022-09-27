@@ -63,7 +63,7 @@ function App() {
 		<div className="App" style={{ padding: 24 }}>
 			<h3
 				style={{
-					fontSize: 20,
+					fontSize: 30,
 					textAlign: "center",
 					fontWeight: 400,
 				}}
