@@ -5,6 +5,17 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #424242;
+}
+
+#root {
+  width: 500px;
+  max-width: 100%; 
+  min-height: 100vh;
+  background-color: #fff;
 }
 
 code {
